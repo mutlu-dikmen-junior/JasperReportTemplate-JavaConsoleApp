@@ -1,1 +1,0 @@
-# JasperReportTemplate-JavaConsoleApp
